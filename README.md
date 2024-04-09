@@ -1,5 +1,4 @@
-Please complete the assignment outlined below and return to me by 8:00 am EST on Monday, April 8th.
-
+Project:
 You have been given real combine/workout data and multiple years of NFL production data with fake player names.  Please use the NFL production data to evaluate professional success of the players and use the college workout data to model that future success. 
  
 Deliverables:
